@@ -14,18 +14,18 @@
 ![Add stars](images/006.png?raw=true)
 
 - [ ] Select the Screen blending mode before you brush.
-- [ ] Select the circle and click the Draw Inside button on the toolbar before you brush.
+- [x] Select the circle and click the Draw Inside button on the toolbar before you brush.
 - [ ] Add a fixed spacing value in the Scatter Brush options.
 - [ ] Select the brush stroke and the circle and make a compound path.
 
 #### Q3. Why would you use the Save Selection command?
 - [ ] to preserve vector copies of objects you plan to rasterize
 - [ ] to save copies of selected objects in a new file
-- [ ] to preserve a selection of objects you may use again
+- [x] to preserve a selection of objects you may use again
 - [ ] to save selected objects in a Creative Cloud library
 
 #### Q4. Which action closes a path when you are actively drawing with the Pen tool?
-- [ ] clicking or dragging the first point in the path
+- [x] clicking or dragging the first point in the path
 - [ ] choosing Object > Path > Join
 - [ ] pressing Return (Mac) or Enter (Windows)
 - [ ] switching to a different tool
